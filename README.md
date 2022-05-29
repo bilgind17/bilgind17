@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilgind17
+- 👋 Hi, I’m Tunahan.
 - 👀 I’m interested in Data Science, Machine Learning - Ai and Web Development
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Data Science Projects, Python Projects etc.
